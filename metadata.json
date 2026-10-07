@@ -1,0 +1,6 @@
+{
+  "name": "NUV EventHub - University Event Management",
+  "description": "Comprehensive university event management platform for NUV to resolve scheduling clashes, streamline creative team workflows, automate approvals, and coordinate logistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
